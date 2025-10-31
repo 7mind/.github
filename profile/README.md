@@ -2,7 +2,7 @@ We make complex things to make Scala ecosystem better and Scala engineers produc
 
 Our notable projects include 
 
-1. [DIStage](https://github.com/7mind/izumi): Phased Dependency Injection/First Class Modules/Multi-Modal Applications  for Scala
+1. [DIStage](https://github.com/7mind/izumi): Phased Dependency Injection/First Class Modules/Multi-Modal Applications  for Scala (with simplified ports to [TypeScript](https://github.com/7mind/izumi-chibi-ts) and [Python](https://github.com/7mind/izumi-chibi-py)
 2. [BIO](https://github.com/7mind/izumi): Bifunctor Typeclasses
 3. [Logstage](https://github.com/7mind/logstage): effortless Structural Logging for Scala, structure is extracted directly from AST
 4. [zio/izumi-reflect](https://github.com/zio/izumi-reflect): static portable compile-time reflection for Scala and a simulator of Scala typer, underlying technology of ZIO Zlayer.
