@@ -1,4 +1,4 @@
-We make complex things to make Scala ecosystem better and Scala engineers productive
+We create complex tools which make Scala ecosystem better and Scala engineers productive.
 
 Our notable projects include 
 
