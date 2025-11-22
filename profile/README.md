@@ -11,4 +11,9 @@ Our notable projects include
 7. [mudyla](https://github.com/7mind/mudyla): mini-orchestrator for scripts in various languages based on typed DAGs
 8. [squish-find-the-brains](https://github.com/7mind/squish-find-the-brains): a tool to run SBT under Nix
 
-Also we've multiple contributions into Scala ecosystem, including [async tracing](https://zio.dev/reference/error-management/recovering/catching/#catching-traces) for async IO Monad runtimes which later evolved and influenced various implementations in different libraries.
+Also we've made multiple contributions into Scala ecosystem:
+
+- [async tracing](https://zio.dev/reference/error-management/recovering/catching/#catching-traces) for async IO Monad runtimes which later evolved and influenced various implementations in different libraries.
+- Orders of magnitude faster [publishing](https://github.com/sbt/sbt/issues/4958) of Scala projects to Sonatype
+- Our libraries are included into [Scala 3 Community Build](https://github.com/scala/scala3/tree/main/community-build/community-projects)
+- Multiple `scalac` bug reports
